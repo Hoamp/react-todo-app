@@ -1,0 +1,8 @@
+clone repo dengan --url
+
+lalu install node_module dengan mengetikkan npm install
+
+selanjutnya jalankan rest api dengan bantuan json-server
+npx json-server --watch data/db.json --port 8000
+
+terakhir jalankan server react dengan mengetikkan npm run dev
