@@ -1,19 +1,14 @@
 {
-  "todos": [
-    {
-      "title": "asd",
-      "done": false,
-      "id": 21
-    },
-    {
-      "title": "ghjg",
-      "done": false,
-      "id": 22
-    },
-    {
-      "title": "kontol",
-      "done": false,
-      "id": 23
-    }
-  ]
+    "todos": [
+        {
+            "title": "running",
+            "done": false,
+            "id": 21
+        },
+        {
+            "title": "swimming",
+            "done": false,
+            "id": 22
+        }
+    ]
 }
