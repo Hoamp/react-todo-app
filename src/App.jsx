@@ -6,7 +6,6 @@ function App() {
     const [isRefresh, setIsRefresh] = useState(true);
 
     const setRefresh = (status) => {
-        // agar tidak perlu di refresh ketika ada data masuk
         setIsRefresh(status);
     };
 

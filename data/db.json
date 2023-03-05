@@ -1,59 +1,19 @@
 {
   "todos": [
     {
-      "id": 1,
-      "title": "Swimming",
-      "done": false
-    },
-    {
-      "id": 2,
-      "done": true,
-      "title": "Joging"
-    },
-    {
-      "title": "kons",
+      "title": "asd",
       "done": false,
-      "id": 3
+      "id": 21
     },
     {
-      "title": "kenapa",
+      "title": "ghjg",
       "done": false,
-      "id": 4
+      "id": 22
     },
     {
-      "title": "nda spa",
+      "title": "kontol",
       "done": false,
-      "id": 5
-    },
-    {
-      "title": "sajdnfjksadfsadf",
-      "done": false,
-      "id": 6
-    },
-    {
-      "title": "asdfadsfasdf",
-      "done": false,
-      "id": 7
-    },
-    {
-      "title": "asdfasdfasdf",
-      "done": false,
-      "id": 8
-    },
-    {
-      "title": "lari",
-      "done": false,
-      "id": 9
-    },
-    {
-      "title": "apik teban",
-      "done": true,
-      "id": 10
-    },
-    {
-      "title": "asdad",
-      "done": false,
-      "id": 11
+      "id": 23
     }
   ]
 }
